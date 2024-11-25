@@ -79,4 +79,4 @@ git commit -m "Adiciona nova funcionalidade":
 ```git push origin minha-feature```
 Abra um Pull Request.
 
-#Desenvolvido com 💻 por Marcos Oliveira 10437530/ Wagner Araujo Marcelino Junior RA 10440125 / Pedro Henrique Araujo 10442579
+# Desenvolvido com 💻 por Marcos Oliveira 10437530/ Wagner Araujo Marcelino Junior RA 10440125 / Pedro Henrique Araujo 10442579
