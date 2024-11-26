@@ -3,7 +3,7 @@
 # Sistema de Gerenciamento de Assentos de Cinema 🎥
 Este é um sistema interativo para gerenciar a seleção de assentos de cinema. Ele foi desenvolvido usando React e CSS Modules, e inclui funcionalidades como troca de tema, visualização de detalhes do filme, e cálculo do valor total dos assentos selecionados.
 
-#📜 Funcionalidades
+# 📜 Funcionalidades
 
 Seleção de Assentos: Escolha entre assentos disponíveis, especiais e indisponíveis.
 Detalhes do Filme: Visualize informações detalhadas sobre o filme em exibição.
@@ -11,13 +11,13 @@ Tema Escuro/Claro: Alterne entre os temas para melhor experiência.
 Cálculo de Preço: Exibe o valor total dos assentos selecionados.
 Responsividade: Layout ajustável para diferentes tamanhos de tela.
 
-#🖼️ Demonstração
+# 🖼️ Demonstração
 
 Mapa de assentos interativo.
 Informações do filme.
 Legenda explicativa dos tipos de assentos.
 
-#🚀 Instalação e Execução
+# 🚀 Instalação e Execução
 *Pré-requisitos*
 
 Node.js e npm instalados.
@@ -32,7 +32,7 @@ Instale as dependências:
 ```npm install```
 Inicie o servidor de desenvolvimento:
 ```npm start```
-#🗂️ Estrutura do Projeto
+# 🗂️ Estrutura do Projeto
 ```
 📂 src
 ├── 📂 componentes
@@ -51,13 +51,13 @@ Inicie o servidor de desenvolvimento:
 ├── Page.js
 └── assentos.json
 ```
-#🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 ```
 React: Biblioteca JavaScript para criação de interfaces.
 CSS Modules: Para estilização modular e reutilizável.
 JSON: Para configuração e simulação de dados.
 ```
-#📖 Detalhes do Código
+# 📖 Detalhes do Código
 *Principais Componentes:*
 Assento.js: Renderiza cada assento individualmente.
 BotaoTrocaTema.js: Altera o tema da aplicação (claro/escuro).
@@ -68,7 +68,7 @@ Legenda.js: Mostra a legenda explicativa dos tipos de assentos.
 CSS Modules: Cada componente possui um arquivo de estilo modular para facilitar a manutenção e evitar conflitos de classes.
 *Configuração de Assentos:*
 assentos.json: Define os assentos disponíveis, indisponíveis e especiais.
-#🧑‍💻 Como Contribuir
+# 🧑‍💻 Como Contribuir
 
 Faça um fork do projeto.
 Crie uma nova branch para sua funcionalidade:
